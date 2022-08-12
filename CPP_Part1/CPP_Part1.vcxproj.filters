@@ -6,7 +6,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="map.cpp">
+    <ClCompile Include="map\map.cpp">
       <Filter>map</Filter>
     </ClCompile>
   </ItemGroup>
