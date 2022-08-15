@@ -9,5 +9,6 @@
     <ClCompile Include="map\map.cpp">
       <Filter>map</Filter>
     </ClCompile>
+    <ClCompile Include="set,multimap,multiset\main.cpp" />
   </ItemGroup>
 </Project>
