@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="map\map.cpp" />
+    <ClCompile Include="practice\practice.cpp" />
     <ClCompile Include="set,multimap,multiset\main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

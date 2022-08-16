@@ -10,5 +10,6 @@
       <Filter>map</Filter>
     </ClCompile>
     <ClCompile Include="set,multimap,multiset\main.cpp" />
+    <ClCompile Include="practice\practice.cpp" />
   </ItemGroup>
 </Project>
