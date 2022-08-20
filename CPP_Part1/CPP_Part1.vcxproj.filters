@@ -11,5 +11,6 @@
     </ClCompile>
     <ClCompile Include="set,multimap,multiset\main.cpp" />
     <ClCompile Include="practice\practice.cpp" />
+    <ClCompile Include="modernC++\auto.cpp" />
   </ItemGroup>
 </Project>
