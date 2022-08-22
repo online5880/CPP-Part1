@@ -13,5 +13,6 @@
     <ClCompile Include="practice\practice.cpp" />
     <ClCompile Include="modernC++\auto.cpp" />
     <ClCompile Include="modernC++\{}Initialize.cpp" />
+    <ClCompile Include="modernC++\nullptr.cpp" />
   </ItemGroup>
 </Project>
