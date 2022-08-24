@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="map\map.cpp" />
     <ClCompile Include="modernC++\auto.cpp" />
+    <ClCompile Include="modernC++\enum_class.cpp" />
     <ClCompile Include="modernC++\nullptr.cpp" />
     <ClCompile Include="modernC++\using.cpp" />
     <ClCompile Include="modernC++\{}Initialize.cpp" />
