@@ -25,6 +25,7 @@
     <ClCompile Include="modernC++\enum_class.cpp" />
     <ClCompile Include="modernC++\nullptr.cpp" />
     <ClCompile Include="modernC++\override, final.cpp" />
+    <ClCompile Include="modernC++\r-value.cpp" />
     <ClCompile Include="modernC++\using.cpp" />
     <ClCompile Include="modernC++\{}Initialize.cpp" />
     <ClCompile Include="practice\practice.cpp" />

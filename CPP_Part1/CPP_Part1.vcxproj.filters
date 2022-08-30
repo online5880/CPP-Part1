@@ -18,5 +18,6 @@
     <ClCompile Include="modernC++\enum_class.cpp" />
     <ClCompile Include="modernC++\delete.cpp" />
     <ClCompile Include="modernC++\override, final.cpp" />
+    <ClCompile Include="modernC++\r-value.cpp" />
   </ItemGroup>
 </Project>
