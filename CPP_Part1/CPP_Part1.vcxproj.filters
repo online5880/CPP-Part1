@@ -19,5 +19,6 @@
     <ClCompile Include="modernC++\delete.cpp" />
     <ClCompile Include="modernC++\override, final.cpp" />
     <ClCompile Include="modernC++\r-value.cpp" />
+    <ClCompile Include="modernC++\전달 참조(forward reference).cpp" />
   </ItemGroup>
 </Project>
