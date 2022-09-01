@@ -20,5 +20,6 @@
     <ClCompile Include="modernC++\override, final.cpp" />
     <ClCompile Include="modernC++\r-value.cpp" />
     <ClCompile Include="modernC++\전달 참조(forward reference).cpp" />
+    <ClCompile Include="modernC++\람다(lambda).cpp" />
   </ItemGroup>
 </Project>
