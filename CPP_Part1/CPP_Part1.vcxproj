@@ -29,6 +29,7 @@
     <ClCompile Include="modernC++\using.cpp" />
     <ClCompile Include="modernC++\{}Initialize.cpp" />
     <ClCompile Include="modernC++\람다(lambda).cpp" />
+    <ClCompile Include="modernC++\스마트 포인터.cpp" />
     <ClCompile Include="modernC++\전달 참조(forward reference).cpp" />
     <ClCompile Include="practice\practice.cpp" />
     <ClCompile Include="set,multimap,multiset\main.cpp" />
